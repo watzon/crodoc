@@ -66,7 +66,7 @@ You can install crodoc in three ways:
 To install with CURL (the easiest method) run the following in your terminal:
 
 ```shell
-curl --proto '=https' --tlsv1.2 -sSf https://github.com/watzon/crodoc/blob/master/install.sh | sh
+curl -L https://git.io/fj4sg | bash
 ```
 
 and let it install. If you wish to inspect the installer script just check it out [here](https://github.com/watzon/crodoc/blob/master/install.sh).
