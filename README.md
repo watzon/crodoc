@@ -1,4 +1,6 @@
 # crodoc
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwatzon%2Fcrodoc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwatzon%2Fcrodoc?ref=badge_shield)
+
 
 crodoc is a documentation tool for the Crystal programming language meant to be a replacement for the built in documenter. The goal of crodoc is to be a more powerful and extensible way to document your code, with support for [meta-data tags](#meta-data-tags), [plugins](#plugins), [custom templates](#custom-templates), and more.
 
@@ -112,3 +114,7 @@ TODO: Write usage instructions here
 ## Contributors
 
 - [Chris Watson](https://github.com/watzon) - creator and maintainer
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwatzon%2Fcrodoc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwatzon%2Fcrodoc?ref=badge_large)
