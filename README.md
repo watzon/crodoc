@@ -1,4 +1,4 @@
-# crodoc - crystal's op documenter
+# crodoc
 
 crodoc is a documentation tool for the Crystal programming language meant to be a replacement for the built in documenter. The goal of crodoc is to be a more powerful and extensible way to document your code, with support for [meta-data tags](#meta-data-tags), [plugins](#plugins), [custom templates](#custom-templates), and more.
 
